@@ -5,6 +5,7 @@
  * 
  * 多账号用 换行 或 @ 分割
  * 抓 https://202210kaixiaozao.iwxapi.com/api/task/index/user请求文本data
+ * cron: 3 10 * * *
  * ====================================
  */
 
