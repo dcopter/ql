@@ -1,3 +1,8 @@
+/*
+cron: 13 11 * * *
+const $ = new Env("lofter");
+*/
+
 # 变量名 sbzck 一行一个
 # 定时自己看着来
 # 注册链接 http://xyinmw.ddkuaidobanchq6hb.cn/5605767
