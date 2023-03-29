@@ -1,6 +1,6 @@
 /*
 cron: 13 11 * * *
-const $ = new Env("lofter");
+const $ = new Env("互乐邦");
 */
 
 # 变量名 sbzck 一行一个
