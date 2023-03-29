@@ -1,4 +1,6 @@
 //阿里云盘连续签到活动
+cron: 19 7 * * *
+const $ = new Env("阿里云签到");
 
 const $ = API();
 const refresh_token = '';//抓包搜请求体关键字:refresh_token
